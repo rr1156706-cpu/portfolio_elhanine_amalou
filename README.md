@@ -64,7 +64,7 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 🎨 Maquette Figma
 
-> 🔗 [Voir la maquette sur Figma](#) *(remplacer # par le vrai lien)*
+> 🔗 [Voir la maquette sur Figma](https://www.figma.com/design/4tJwEG0hS8FNN8btxwoXLn/projet-final-design-figma-realise-par-adam-elhanine-et-amalou-abdesamad?node-id=0-1&p=f&t=WsTau9Jl6JrWPRxK-0) 
 
 ---
 
