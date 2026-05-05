@@ -58,7 +58,7 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 📸 Aperçu du site
 
-[Aperçu du site](screenshot.png)
+> ![Aperçu du site](screenshot.png)
 
 ---
 
