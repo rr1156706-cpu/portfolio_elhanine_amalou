@@ -89,10 +89,11 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 📁 Structure du projet
 
-```
 portfolio_elhanine_amalou/
 │
 ├── index.html        # Page principale (HTML + CSS + JS)
+├── adam.png          # Photo Adam Elhanine
+├── abd samad.jpeg    # Photo Abd Samad Amalou
 └── README.md         # Documentation du projet
 ```
 
