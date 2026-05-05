@@ -74,7 +74,7 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 🔗 Site en ligne
 
-> 🌍 [Voir le site en ligne](#) *(remplacer # par le lien GitHub Pages)*
+> 🌍 [Voir le site en ligne](#) (https://rr1156706-cpu.github.io/portfolio_elhanine_amalou/)
 
 ---
 
