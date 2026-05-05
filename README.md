@@ -58,9 +58,9 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 📸 Aperçu du site
 
-> *(Ajouter une capture d'écran du site ici)*
 > 
-> Pour ajouter une image : `![Aperçu](screenshot.png)`
+> Pour ajouter une image : `<img width="1920" height="6508" alt="DevDuo-—-Adam-Abd-Samad-04-26-2026_14_50" src="https://github.com/user-attachments/assets/61d88bf4-0465-43f3-8887-b15f1408e14e" />
+`
 
 ---
 
