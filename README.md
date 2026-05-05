@@ -58,11 +58,9 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 📸 Aperçu du site
 
+> *(Ajouter une capture d'écran du site ici)*
 > 
-> Pour ajouter une image : ![Uploading DevDuo-—-Adam-Abd-Samad-04-26-2026_14_50.png…]()
-![Uploading DevDuo-—-Adam-Abd-Samad-04-26-2026_14_50.png…]()
-
-`
+> Pour ajouter une image : `![Aperçu](screenshot.png)`
 
 ---
 
@@ -74,7 +72,7 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 🔗 Site en ligne
 
-> 🌍 [Voir le site en ligne](#) (https://rr1156706-cpu.github.io/portfolio_elhanine_amalou/)
+> 🌍 [Voir le site en ligne](https://rr1156706-cpu.github.io/portfolio_elhanine_amalou/) 
 
 ---
 
@@ -89,6 +87,7 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 📁 Structure du projet
 
+```
 portfolio_elhanine_amalou/
 │
 ├── index.html        # Page principale (HTML + CSS + JS)
@@ -109,5 +108,7 @@ git clone https://github.com/TON_USERNAME/portfolio_elhanine_amalou.git
 2. Ouvrir `index.html` dans le navigateur — aucune installation requise !
 
 ---
+
+*Projet réalisé dans le cadre du cours JavaScript — 2025*
 
 *Projet réalisé dans le cadre du cours JavaScript — 2025*
