@@ -102,7 +102,7 @@ portfolio_elhanine_amalou/
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/TON_USERNAME/portfolio_elhanine_amalou.git
+git clone https://github.com/rr1156706-cpu/portfolio_elhanine_amalou.git
 ```
 
 2. Ouvrir `index.html` dans le navigateur — aucune installation requise !
