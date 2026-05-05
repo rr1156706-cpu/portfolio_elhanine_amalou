@@ -58,9 +58,7 @@ console.log(data.slip.advice); // "Believe in yourself."
 
 ## 📸 Aperçu du site
 
-> *(Ajouter une capture d'écran du site ici)*
-> 
-> Pour ajouter une image : `![Aperçu](screenshot.png)`
+[Aperçu du site](screenshot.png)
 
 ---
 
